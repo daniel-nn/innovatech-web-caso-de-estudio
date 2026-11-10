@@ -38,7 +38,7 @@ Una página reúne los proyectos realizados, y cada uno tiene su propia página 
 
 ![Proyectos](capturas/04-proyectos-escritorio.png)
 
-![Proyecto de cámaras de seguridad](capturas/05-proyecto-camaras-escritorio.png)
+
 
 Así se ve completa, de arriba abajo, la página del proyecto de cámaras de seguridad:
 
